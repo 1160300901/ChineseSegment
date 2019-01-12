@@ -1,0 +1,27 @@
+    FBMM.py 正向最大分词、反向最大分词
+
+    Score.py 计算P、R、F值
+
+    train_data 是训练文件夹
+        199801_seg.txt  人民日报1998年1月份分好词的标准文件
+        199801_sent.txt 对应的生文本
+
+        Extract_dictionary.py 从199801_seg.txt提取词典
+        sort_dic.txt 从199801_seg.txt提取的词典
+
+        seg_BMM.txt 逆向最大匹配分词结果
+        seg_FMM.txt 正向最大匹配分词结果
+        train_score 正反向最大匹配的P、R、F值
+
+
+    test_data 是测试文件夹
+        2004_corpus.txt  人民日报2004年词性标注的语料
+
+        2004_seg.txt 分好词的标准文件
+        2004_sentence.txt 对应的生文本
+        segment.py 从2004_corpus.txt生成2004_seg.txt
+        sentence.py 从2004_seg.txt生成2004_sentence.txt
+
+        seg_BMM.txt 逆向最大匹配分词结果
+        seg_FMM.txt 正向最大匹配分词结果
+        test_score 正反向最大匹配的P、R、F值

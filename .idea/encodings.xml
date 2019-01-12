@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/test_data/2004_sentence.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/test_data/result.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/test_data/seg.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/test_data/seg_BMM.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/test_data/seg_FMM.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/test_data/sentence.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/train_data/199801_seg.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/train_data/199801_sent.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/train_data/sort_dic.txt" charset="GB18030" />
+  </component>
+</project>
